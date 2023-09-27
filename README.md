@@ -6,6 +6,8 @@ This is one of several related repositories on my Github, all of which are part 
 1. Provide myself a way to practice my automation skills.
 2. Have concrete examples of my work to provide to potential employers
 
+# Contents
+
 
 
 ## About test site
