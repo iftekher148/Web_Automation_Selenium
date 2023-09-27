@@ -1,13 +1,12 @@
 
+# Contents
+
 # Web Automation with Java and Selenium
 
 This is one of several related repositories on my Github, all of which are part of a project to demonstrate my automation abilities.The overall goals of these projects are as follows:
 
 1. Provide myself a way to practice my automation skills.
 2. Have concrete examples of my work to provide to potential employers
-
-# Contents
-
 
 
 ## About test site
