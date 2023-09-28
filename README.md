@@ -54,14 +54,15 @@ I have use https://demo.nopcommerce.com/ site for my automation testing.This is 
     3.2 Add to CART
 
     3.3 Add to Shipping CART
-6. Community poll
+   https://www.loom.com/share/16bbf7d1e8d148cfa0b80c47a2bd2043?sid=60482b0d-a2a9-4b6c-a3de-63f15d8aa102
+7. Community poll
 
     4.1 Scroll Down
 
     4.2 Select option
 
     4.3 Give vote
-7. Footer Information
+8. Footer Information
 
     5.1 Sitemap
 
