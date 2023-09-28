@@ -38,28 +38,29 @@ I have use https://demo.nopcommerce.com/ site for my automation testing.This is 
     1.8 Password
     
     1.9 Confirm password
-2. Login
+   https://www.loom.com/share/33e06da0992a4d83939a1e546d61eec6?sid=75bf1b8d-1fab-4314-a537-e63b4f258319
+3. Login
 
     2.1 Email
 
     2.2 Password
 
     2.3 Remember me
-3. Search Product Item
+4. Search Product Item
 
     3.1 Search a product item
     
     3.2 Add to CART
 
     3.3 Add to Shipping CART
-4. Community poll
+5. Community poll
 
     4.1 Scroll Down
 
     4.2 Select option
 
     4.3 Give vote
-5. Footer Information
+6. Footer Information
 
     5.1 Sitemap
 
