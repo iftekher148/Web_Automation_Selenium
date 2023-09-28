@@ -46,21 +46,22 @@ I have use https://demo.nopcommerce.com/ site for my automation testing.This is 
     2.2 Password
 
     2.3 Remember me
-4. Search Product Item
+   https://www.loom.com/share/0ba8492dc2034fac80d9472d24bfee28?sid=114005da-2500-4339-aee9-e621b59be3ec
+5. Search Product Item
 
     3.1 Search a product item
     
     3.2 Add to CART
 
     3.3 Add to Shipping CART
-5. Community poll
+6. Community poll
 
     4.1 Scroll Down
 
     4.2 Select option
 
     4.3 Give vote
-6. Footer Information
+7. Footer Information
 
     5.1 Sitemap
 
